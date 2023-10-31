@@ -1,3 +1,13 @@
-<h1>My first website</h1>
-<p>My favorite color is maroon</p>
-<IMG SRC="C:\Users\mitch\OneDrive\Pictures\Saved Pictures\IMG_20190306_165154.jpg" ALT="error" WIDTH=4048 HEIGHT=3036>
+<!DOCTYPE html>
+<html>
+<head>
+<title>First Webpage</title>
+</head>
+<body>
+
+<h1>CPT 652</h1>
+<h2>Cyber Crabs</h2>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
